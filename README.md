@@ -73,3 +73,11 @@ bun test
 ## License
 
 MIT
+
+## Links
+
+- Website: https://plugsky.com
+- API docs: https://plugsky.com/docs
+- Pricing: https://plugsky.com/pricing
+- Model catalogue: https://plugsky.com/models
+- Research: https://plugsky.com/research
